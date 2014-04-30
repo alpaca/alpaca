@@ -24,7 +24,7 @@ Code Organization
 
 ### Templates and Generators
 - https://github.com/alpaca/flask-template - best practices we've come up with for flask
-- https://github.com/alpaca/flask-template - best practices we'e come up with for tornado
+- https://github.com/alpaca/tornado-template - best practices we'e come up with for tornado
 - https://github.com/alpaca/generator-alpaca-flask - yeoman generator for flask
 - https://github.com/alpaca/generator-alpaca-tornado - yeoman generator for tornado
 
