@@ -8,7 +8,8 @@ This repository is a collection of open source tools that power our business, [A
 * Moritz Gellner - [moritzg91](https://github.com/moritzg91) - [moritz.gellner@gmail.com](moritz.gellner@gmail.com)
 * Carson Potter - [cpottamus](https://github.com/cpottamus) - [cp3192@gmail.com](cp3192@gmail.com)
 * Dhrumil Mehta - [dmil](https://github.com/dmil) - [dhrumil.mehta@gmail.com](dhrumil.mehta@gmail.com)
-* Daniel Thirman - [dthirman](https://github.com/dthirman) - [dthirman@gmail.com](dthirman@gmail.com)
+* Sergio Hidalgo - [GeorgeMaharis](github.com/GeorgeMaharis) - [sergiochidalgo@gmail.com](sergiochidalgo@gmail.com)
+* Daniel Thirman - [dthirman](https://github.com/DThirman) - [dthirman@gmail.com](dthirman@gmail.com)
 
 Code Organization
 -----------------
