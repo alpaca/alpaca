@@ -62,6 +62,8 @@ This list isn't exhaustive by any means.
     - Flask-RESTful - https://github.com/twilio/flask-restful
     - Flask-Script - https://github.com/smurfix/flask-script
     - Flask-Testing - https://github.com/jarus/flask-testing
+  - lxml - https://github.com/lxml/lxml
+  - BeautifulSoup4 - https://github.com/kelp404/bs4
 - Dokku https://github.com/progrium/dokku
   - https://github.com/progrium/buildstep
   - Docker https://github.com/dotcloud/docker
